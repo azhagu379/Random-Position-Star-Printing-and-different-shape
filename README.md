@@ -1,7 +1,7 @@
 # Random-Position-Star-Printing-and-different-shape
 Random Position Star Printing
 
-40 *40=
+40 *40
 
 input & Out put
 
